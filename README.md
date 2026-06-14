@@ -7,7 +7,7 @@
 
 ### AI that works · _AI რომელიც მუშაობს_
 
-**AI marketing agency in Tbilisi, Georgia** — websites, chatbots & content that grow online sales.
+**AI marketing agency in Tbilisi, Georgia** building **AI agents**, chatbots, websites & content that grow online sales.
 Transparent pricing, real results.
 
 ![Tbilisi](https://img.shields.io/badge/Tbilisi-Georgia-7c3aed?style=for-the-badge)
@@ -20,27 +20,47 @@ Transparent pricing, real results.
 
 ## What we build
 
-We start most partnerships with the two services that move revenue fastest — **AI chatbots** and an
-**AI content studio** — then expand into the full stack as the account grows.
+Most partnerships start with the two services that move revenue fastest, **AI chatbots** and an **AI content studio**, then expand into the full stack.
 
 <div align="center">
 
+![AI Agents](https://img.shields.io/badge/AI_Agents-7c3aed?style=for-the-badge)
 ![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-7c3aed?style=for-the-badge)
+![AI Voice Agents](https://img.shields.io/badge/AI_Voice_Agents-7c3aed?style=for-the-badge)
 ![AI Content Studio](https://img.shields.io/badge/AI_Content_Studio-7c3aed?style=for-the-badge)
-![Websites & Apps](https://img.shields.io/badge/Websites_&_Apps-7c3aed?style=for-the-badge)
 <br/>
+![Websites & Apps](https://img.shields.io/badge/Websites_&_Apps-8b3dff?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-8b3dff?style=for-the-badge)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-8b3dff?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO_·_LLM_SEO-8b3dff?style=for-the-badge)
+<br/>
+![Graphics](https://img.shields.io/badge/Graphics-8b3dff?style=for-the-badge)
 ![AI Characters](https://img.shields.io/badge/AI_Characters-8b3dff?style=for-the-badge)
+![AI Influencer](https://img.shields.io/badge/AI_Influencer-8b3dff?style=for-the-badge)
+![Consulting](https://img.shields.io/badge/Consulting-8b3dff?style=for-the-badge)
 
 </div>
 
-- 🤖 **AI Chatbots** — sales & support bots for Telegram, WhatsApp, Messenger, Instagram and your site, on GPT / Claude.
-- ✍️ **AI Content Studio** — social posts, video, graphics and copy on a steady content calendar.
-- 🌐 **Websites & Apps** — landing pages, e-commerce and web/mobile apps, fast and conversion-focused.
-- ⚙️ **Automation** — document processing, sales pipelines and reporting wired together with n8n / Make.
-- 📈 **Meta Ads** — Facebook & Instagram campaigns, Advantage+, pixel + conversions tracking.
-- 🎭 **AI Characters** — branded AI influencers and animated mascots.
+- 🤖 **AI Agents & Bots:** AI chatbots, AI voice agents and custom AI agents. Sales & support on GPT / Claude across Telegram, WhatsApp, Messenger, Instagram and your site.
+- 🎨 **Content & Creative:** AI Content Studio, graphics, AI characters and AI influencers. A steady content calendar with video, posts and brand creative.
+- 🌐 **Web & Automation:** websites, e-commerce and web/mobile apps, plus automation pipelines wired with n8n / Make.
+- 📈 **Growth & Visibility:** Meta Ads, SEO, LLM SEO (GEO) and consulting. Campaigns, search, and getting cited inside ChatGPT / Gemini.
+
+---
+
+## By the numbers
+
+<div align="center">
+
+![Services](https://img.shields.io/badge/13_services-7c3aed?style=for-the-badge)
+![Articles](https://img.shields.io/badge/750%2B_articles-e040fb?style=for-the-badge)
+![Languages](https://img.shields.io/badge/3_content_languages-111111?style=for-the-badge)
+![Locales](https://img.shields.io/badge/7_locales-111111?style=for-the-badge)
+![Sub-brands](https://img.shields.io/badge/3_sub--brands-111111?style=for-the-badge)
+
+</div>
+
+<div align="center"><b>aiCONTENT</b> creates · <b>aiSTAFF</b> sells · <b>iAI</b> manages</div>
 
 ---
 
