@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ainow-mark-white.png" />
-  <img src="./assets/ainow-mark.png" alt="aiNOW" width="260" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ainowgeorgia/ainowgeorgia/main/assets/ainow-mark-white.png" />
+  <img src="https://raw.githubusercontent.com/ainowgeorgia/ainowgeorgia/main/assets/ainow-mark.png" alt="aiNOW" width="260" />
 </picture>
 
 ### AI that works · _AI რომელიც მუშაობს_
