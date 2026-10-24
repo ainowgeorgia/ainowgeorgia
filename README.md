@@ -5,112 +5,88 @@
   <img src="https://raw.githubusercontent.com/ainowgeorgia/ainowgeorgia/main/assets/ainow-mark.png" alt="aiNOW" width="260" />
 </picture>
 
-### AI that works · _AI რომელიც მუშაობს_
+### AI systems for business
 
-**AI marketing agency in Tbilisi, Georgia** building **AI agents**, chatbots, websites & content that grow online sales.
-Transparent pricing, real results.
+**AI consulting and technology company in Tbilisi, Georgia.**
 
-![Tbilisi](https://img.shields.io/badge/Tbilisi-Georgia-7c3aed?style=for-the-badge)
-![Focus](https://img.shields.io/badge/AI_marketing_agency-e040fb?style=for-the-badge)
-![Pricing](https://img.shields.io/badge/transparent_pricing-111111?style=for-the-badge)
+We design, build and operate AI systems for customer communication, marketing and internal workflows. Start with a product or commission a system tailored to your business.
 
-</div>
-
----
-
-## What we build
-
-Most partnerships start with the two services that move revenue fastest, **AI chatbots** and an **AI content studio**, then expand into the full stack.
-
-<div align="center">
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-7c3aed?style=for-the-badge)
-![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-7c3aed?style=for-the-badge)
-![AI Voice Agents](https://img.shields.io/badge/AI_Voice_Agents-7c3aed?style=for-the-badge)
-![AI Content Studio](https://img.shields.io/badge/AI_Content_Studio-7c3aed?style=for-the-badge)
-<br/>
-![Websites & Apps](https://img.shields.io/badge/Websites_&_Apps-8b3dff?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-8b3dff?style=for-the-badge)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-8b3dff?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO_·_LLM_SEO-8b3dff?style=for-the-badge)
-<br/>
-![Graphics](https://img.shields.io/badge/Graphics-8b3dff?style=for-the-badge)
-![AI Characters](https://img.shields.io/badge/AI_Characters-8b3dff?style=for-the-badge)
-![AI Influencer](https://img.shields.io/badge/AI_Influencer-8b3dff?style=for-the-badge)
-![Consulting](https://img.shields.io/badge/Consulting-8b3dff?style=for-the-badge)
-
-</div>
-
-- 🤖 **AI Agents & Bots:** AI chatbots, AI voice agents and custom AI agents. Sales & support on GPT / Claude across Telegram, WhatsApp, Messenger, Instagram and your site.
-- 🎨 **Content & Creative:** AI Content Studio, graphics, AI characters and AI influencers. A steady content calendar with video, posts and brand creative.
-- 🌐 **Web & Automation:** websites, e-commerce and web/mobile apps, plus automation pipelines wired with n8n / Make.
-- 📈 **Growth & Visibility:** Meta Ads, SEO, LLM SEO (GEO) and consulting. Campaigns, search, and getting cited inside ChatGPT / Gemini.
-
----
-
-## By the numbers
-
-<div align="center">
-
-![Services](https://img.shields.io/badge/13_services-7c3aed?style=for-the-badge)
-![Articles](https://img.shields.io/badge/750%2B_articles-e040fb?style=for-the-badge)
-![Languages](https://img.shields.io/badge/3_content_languages-111111?style=for-the-badge)
-![Locales](https://img.shields.io/badge/7_locales-111111?style=for-the-badge)
-![Sub-brands](https://img.shields.io/badge/3_sub--brands-111111?style=for-the-badge)
-
-</div>
-
-<div align="center"><b>aiCONTENT</b> creates · <b>aiSTAFF</b> sells · <b>iAI</b> manages</div>
-
----
-
-## Tech we ship with
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-<br/>
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-<br/>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-Vapi_·_Retell-333333?style=for-the-badge)
+[Website](https://ainow.ge/en) · [Products](#our-products) · [Contact](mailto:contact@ainow.ge)
 
 </div>
 
 ---
+
+## Our products
+
+### Customer communication
+
+| Product | What it does |
+| --- | --- |
+| [**aiCHATS**](https://aichats.ge) | AI agents for customer messages, sales and support, with handoff to your team. |
+| [**aiCALL**](https://aicall.ge) | Voice AI for inbound and outbound calls, confirmations and customer follow-up. |
+
+### Marketing and content
+
+| Product | What it does |
+| --- | --- |
+| [**aiCONTENT**](https://aicontent.ge) | Self-service character swaps in video: choose a template or upload a video, add reference photos and confirm the credit quote. |
+| [**aiADS**](https://aiads.ge) | Advertising campaign management across Meta and Google. |
+| [**aiMUSIC**](https://aimusic.ge) | Music profiles and daily playlists for venues, with documented usage packages. |
+
+### Team operations and knowledge
+
+| Product | What it does |
+| --- | --- |
+| [**aiSTAFF**](https://aistaff.ge) | Recruitment of real AI specialists for your company. |
+| [**aiBRAIN**](https://aibrain.ge) | Approved business knowledge and rules for connected AI assistants. |
+| [**aiOFFICE**](https://aioffice.ge) | AI assistance for tasks and everyday office work. |
+| [**aiDOCS**](https://aidocs.ge) | Extracts document data into review-ready ledger drafts for accounting, customs and freight workflows. |
+
+### Websites and digital products
+
+| Product | What it does |
+| --- | --- |
+| [**aiWEB**](https://aiweb.ge) | Business websites, online stores and web products. |
+| [**aiAPP**](https://aiapp.ge) | Mobile application design and development for iOS and Android. |
+| [**vibeCODING**](https://vibecoding.ge) | Security review and improvements for applications built with AI. |
+
+[**iAI**](https://iai.ge) is the AI workspace for chats, calls, content and documents, coordinating products and the work between them.
+
+---
+
+## From a business problem to a working system
+
+1. **Examine and design.** Map the workflow, information sources, responsibilities and acceptance criteria.
+2. **Build and integrate.** Connect the tools the task requires and test real scenarios with your team.
+3. **Operate and improve.** Maintain the system, review changes and agree when a person steps in.
+
+We work with your approved prices, policies and knowledge. Access, human handoffs and support are defined for each project.
 
 ## Selected work
 
-| Client | What they do | What we run |
-|--------|--------------|-------------|
-| **mshenoveli** | Construction & renovation | Full retainer — chatbot, lead-gen, video, Meta ads, SEO |
-| **Bubabu** | AI screen-free kids' toys | Content studio |
-| **Glow** | Beauty / AI photo retouch | Brand & web |
-| **Tulip.GE** | Flower e-commerce, Tbilisi | Online store |
-| **TechBrain** | CCTV & security retail | Web & content |
+| Client | What we built and connected |
+| --- | --- |
+| **Mshenoveli** | Interior generator, multilingual website, AI chat, content, SEO articles and Meta campaigns. |
+| **Invest Development Bagebi** | Georgian video content, Meta campaigns for conversations, Messenger flow and apartment materials. |
+| **AAS.GE** | Vehicle website and catalog, request tool, chat automation, content and Meta campaigns. |
+
+[Explore the work on ainow.ge](https://ainow.ge/en)
+
+## Technology
+
+Next.js · React · TypeScript · AI models selected for the task · Jev by TypeSafe · Workflow automation · APIs and business integrations
+
+The stack and connections follow the project scope, data needs and operating rules.
 
 ---
 
-## Work with us
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/ainow.ge-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ainow.ge)
-[![Email](https://img.shields.io/badge/CONTACT@aiNOW.GE-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ainow.ge)
-![Phone](https://img.shields.io/badge/Phone-+995_599_70_15_52-111111?style=for-the-badge)
+### Tell us what your business needs
 
-<br/>
+[**ainow.ge**](https://ainow.ge) · [**contact@ainow.ge**](mailto:contact@ainow.ge)
 
-**ვქმნით · ვყიდით · ვმართავთ** — we create · we sell · we manage
-
-<sub><b>AINOW.GE</b></sub>
+Tbilisi, Georgia · **AI NOW LLC**
 
 </div>
